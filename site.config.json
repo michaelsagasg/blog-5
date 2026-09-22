@@ -1,0 +1,16 @@
+{
+  "slug": "shotdiaryuk",
+  "name": "ShotDiaryUK",
+  "tagline": "A weekly injection and weigh-in log for retatrutide and tirzepatide, plus what UK readers ask before they start.",
+  "nav": [
+    { "label": "All articles", "short": "All", "href": "/archive/" }
+  ],
+  "banner": {
+    "enabled": true,
+    "headline": "Retatrutide and tirzepatide pens with the COA on the listing, worth logging from week one.",
+    "button": "Shop Enzo Meds",
+    "url": "https://enzomeds.com",
+    "label": "",
+    "short": "Shop Enzo Meds"
+  }
+}

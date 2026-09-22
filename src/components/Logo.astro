@@ -1,0 +1,19 @@
+---
+import { site } from '../lib/site';
+const [first, ...rest] = site.name.match(/[A-Z][a-z0-9]*|[a-z0-9]+/g) ?? [site.name];
+---
+<span class="logo">
+  <svg class="logo-mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+    <rect class="lm-page" x="3" y="3" width="26" height="26" rx="3" fill="none" stroke-width="2" />
+    <circle class="lm-dot" cx="10" cy="11" r="1.4" />
+    <circle class="lm-dot" cx="16" cy="11" r="1.4" />
+    <circle class="lm-dot" cx="22" cy="11" r="1.4" />
+    <circle class="lm-dot" cx="10" cy="17" r="1.4" />
+    <circle class="lm-dot lm-marked" cx="16" cy="17" r="2" />
+    <circle class="lm-dot" cx="22" cy="17" r="1.4" />
+    <circle class="lm-dot" cx="10" cy="23" r="1.4" />
+    <circle class="lm-dot" cx="16" cy="23" r="1.4" />
+    <circle class="lm-dot" cx="22" cy="23" r="1.4" />
+  </svg>
+  <span class="brand-name"><em>{first}</em>{rest.join('')}</span>
+</span>
