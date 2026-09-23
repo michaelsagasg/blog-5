@@ -20,7 +20,7 @@ const cats = countBy(posts, (p) => p.data.category);
         <input type="search" data-search placeholder="Search all articles" aria-label="Search articles" autocomplete="off" />
       </form>
     </div>
-    <ul class="list cols three">{posts.map((p) => <PostCard post={p} />)}</ul>
+    <ol class="list timeline">{posts.map((p) => <PostCard post={p} />)}</ol>
     <p class="empty" data-empty hidden>No articles match that search. Try a different word.</p>
   </div>
 </Base>

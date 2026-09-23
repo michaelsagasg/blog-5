@@ -6,8 +6,9 @@ const c = post.data.category;
 const H = `h${level}` as 'h2' | 'h3';
 ---
 <li class={`item t-${catTone(c)}`} data-cat={c} data-text={`${post.data.title} ${post.data.description} ${c}`.toLowerCase()}>
+  <time class="item-date" datetime={post.data.date.toISOString()}>{fmtDate(post.data.date)}</time>
   {cat && <p class="kicker"><b>{catSymbol(c)}</b>{catLabel(c)}</p>}
   <H><a href={postUrl(post)}>{post.data.title}</a></H>
   <p class="desc">{post.data.description}</p>
-  <p class="meta"><time datetime={post.data.date.toISOString()}>{fmtDate(post.data.date)}</time> · {readingTime(post)} min read</p>
+  <p class="meta">{readingTime(post)} min read</p>
 </li>

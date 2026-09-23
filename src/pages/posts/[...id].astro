@@ -39,7 +39,7 @@ const c = post.data.category;
   {related.length > 0 && (
     <section class="wrap related" aria-labelledby="keep">
       <h2 id="keep">Keep reading</h2>
-      <ul class="list cols three">{related.map((p) => <PostCard post={p} />)}</ul>
+      <ol class="list timeline">{related.map((p) => <PostCard post={p} />)}</ol>
     </section>
   )}
   <nav class="wrap pager" aria-label="More posts">
@@ -48,7 +48,9 @@ const c = post.data.category;
   </nav>
   {site.banner.enabled && (
     <div class="wrap end-shop">
-      <a class="btn-shop" href={bannerHref(site.banner.url)} rel="sponsored noopener">{site.banner.button} <span aria-hidden="true">→</span></a>
+      <a class="sticky sticky-end" href={bannerHref(site.banner.url)} rel="sponsored noopener">
+        <strong>{site.banner.button}</strong> <span aria-hidden="true">→</span>
+      </a>
     </div>
   )}
 </Base>
