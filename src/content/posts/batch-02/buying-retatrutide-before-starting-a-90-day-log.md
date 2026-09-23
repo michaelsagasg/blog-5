@@ -33,7 +33,7 @@ Rather than treating 90 days as one long stretch, breaking the log into three ro
 
 ## A worked example for 90 days
 
-If a rough schedule suggests a starting dose of 2mg stepping up every four weeks to 4mg then 8mg, a 90-day, roughly 13-week course needs enough total mg to cover four weeks at 2mg, four weeks at 4mg, and around five weeks at 8mg. Adding this up before ordering, rather than estimating loosely, avoids a mid-course shortfall or a large amount of unused product left over at the end.
+The commonly used slow titration starts at 1mg, rises by 1mg each week, and settles into a 4mg maintenance dose from week four onward. On that basis, a 90-day, roughly 13-week course needs enough total mg to cover one week each at 1mg, 2mg, and 3mg, plus around ten weeks at the 4mg maintenance dose. Adding this up before ordering, rather than estimating loosely, avoids a mid-course shortfall or a large amount of unused product left over at the end. This is a general planning figure rather than a personal prescription; Enzo Meds' customer service team can help work out a schedule that fits your own course.
 
 ### Building in a small buffer
 

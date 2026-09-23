@@ -33,7 +33,7 @@ Treating 90 days as three rough monthly checkpoints, reviewing the trend at day 
 
 ## A worked example for 90 days
 
-If a rough schedule suggests starting at 2.5mg and stepping up every four weeks toward 5mg then 7.5mg, a 90-day, roughly 13-week course needs enough total mg to cover four weeks at 2.5mg, four weeks at 5mg, and around five weeks at 7.5mg. Working this out before ordering, rather than estimating loosely, avoids either a shortfall partway through or a large surplus left over at the end of the course.
+The commonly used slow titration starts at 1mg, rises by 1mg each week, and settles into a 4mg maintenance dose from week four onward. On that basis, a 90-day, roughly 13-week course needs enough total mg to cover one week each at 1mg, 2mg, and 3mg, plus around ten weeks at the 4mg maintenance dose. Working this out before ordering, rather than estimating loosely, avoids either a shortfall partway through or a large surplus left over at the end of the course. This is a general planning figure rather than a personal prescription; Enzo Meds' customer service team can help work out a schedule that fits your own course.
 
 ### Building in a small buffer
 

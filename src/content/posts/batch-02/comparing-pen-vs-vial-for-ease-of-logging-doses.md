@@ -37,7 +37,7 @@ A pen suits someone who wants the simplest possible weekly entry and is comforta
 
 ## A worked example of both formats
 
-Imagine a titration schedule stepping from 2mg to 4mg after four weeks. With a pen offering fixed 2mg and 4mg settings, the log entry simply changes from "2mg setting" to "4mg setting" on the right week, no calculation needed. With a vial reconstituted to 10mg/ml, the same step means changing the weekly draw from 0.2ml to 0.4ml, a calculation that needs to be done correctly and double-checked against the concentration noted at the top of the log page.
+Imagine following the standard slow titration: 1mg in week one, rising by 1mg each week to a 4mg maintenance dose from week four onward. With a pen offering fixed 1mg, 2mg, 3mg and 4mg settings, the log entry simply changes to match the new setting each week, no calculation needed. With a vial reconstituted to 10mg/ml, the same steps mean the weekly draw moves from 0.1ml to 0.2ml, 0.3ml and finally 0.4ml, a calculation that needs to be done correctly and double-checked against the concentration noted at the top of the log page. That pace is a reasonable general guide; for a schedule suited to your own situation, Enzo Meds' customer service team can talk it through with you directly.
 
 ### Where mistakes tend to happen with each
 
