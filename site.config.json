@@ -1,6 +1,6 @@
 {
-  "slug": "shotdiaryuk",
-  "name": "ShotDiaryUK",
+  "slug": "retadiary",
+  "name": "RetaDiary",
   "tagline": "A weekly injection and weigh-in log for retatrutide and tirzepatide, plus what UK readers ask before they start.",
   "nav": [
     { "label": "All articles", "short": "All", "href": "/archive/" }
