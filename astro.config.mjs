@@ -4,6 +4,6 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   server: { host: '127.0.0.1', port: 4325 },
   site: 'https://michaelsagasg.github.io',
-  base: '/retadiary',
+  base: '/blog-5',
   integrations: [sitemap()],
 });
